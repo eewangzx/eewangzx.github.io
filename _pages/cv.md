@@ -13,13 +13,13 @@ redirect_from:
 
 ### University of Chinese Academy of Sciences (ShanghaiTech University)
 
-- Ph.D. in Information and Communication (Sept. 2018 —— Jan., 2024)
+- Ph.D. in Information and Communication (Sept., 2018 —— Jan., 2024)
 
 - Supervisor: Prof. [Yong Zhou](https://faculty.sist.shanghaitech.edu.cn/faculty/zhouyong/index.html)
   
 ### Wuhan University of Technology
 
-- B.Sc. in Mathematics, Information and Computer Science  (Sept. 2014 —— Jun., 2018)
+- B.Sc. in Mathematics, Information and Computer Science  (Sept., 2014 —— Jun., 2018)
 
 </br>
 
@@ -27,13 +27,13 @@ redirect_from:
 
 ### Hong Kong University of Science and Technology, Dept. ECE, Hong Kong
 
-- Post-doctoral Fellow (Mar. 2024 -- Present)
+- Post-doctoral Fellow (Mar., 2024 -- Present)
 
 - Supervisor: Prof. [Khaled B. Letaief](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=khaled-ben-letaief-eekhaled)
 
 ### Oulu University, Centre of Wireless Communication, Finland
 
-- Visiting Doctoral Researcher (Nov. 2022 -- Oct. 2023)
+- Visiting Doctoral Researcher (Nov., 2022 -- Oct., 2023)
 
 - Supervisor: Prof. [Mehdi Bennis](https://sites.google.com/view/dr-mehdi-bennis/home)
 
