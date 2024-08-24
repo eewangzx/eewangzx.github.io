@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Information and Communication, working with Prof. Yong Zhou, University of Chinese Academy of Sciences (ShanghaiTech University), Jan., 2024.
+  * Supervisor: Prof. [Yong Zhou](https://faculty.sist.shanghaitech.edu.cn/faculty/zhouyong/index.html)
 * B.Sc. in Mathematics, Information and Computer Science, Wuhan University of Technology, 2018
 
 Work experience

@@ -33,3 +33,6 @@ Highlighted Ongoing Work
 
 Selected First-author Papers
 ======
+
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=a&t=n&d=KtCJQWJVw-eDi9A_ZPIXi6FcZtIjXAcKiQwjWcKFMcM&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>
