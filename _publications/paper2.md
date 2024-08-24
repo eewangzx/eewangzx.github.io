@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/paper2
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2023-01-30
+date: 2021-08-18
 venue: 'IEEE Trans. Veh. Technol.'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10032291'
