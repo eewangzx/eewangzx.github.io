@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hi, I am Zixin Wang ( 王子鑫 )"
+title                    : "Zixin Wang's Site"
 title_separator          : "-"
 name                     : &name "Zixin Wang"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "XiaoWangya/XiaoWangya.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.jpg"
   name             : "Zixin Wang"
   pronouns         : # example: "she/her"  
   bio              : "Post-doctoral Researcher, Department of Electrical and Electronic Engineering, The Hong Kong University of Science and Technology. Email: eewangzx@@ust.hk"
