@@ -30,9 +30,9 @@ Edge intelligence -->
 ## News
 - Aug. 2024, our work "Graph Attention-based MADRL for Access Control and Resource Allocation in Wireless Networked Control Systems" is accepted by IEEE trans. wireless commun.. 
 - Aug. 2024, our work "Federated Low-Rank Adaptation for Large Language Model Fine-Tuning Over Wireless Networks" is accepted by GLOBECOM 2024.
-- Mar. 2024, I joined in HKUST as a post-doctoral fellow, working with Prof. Khaled. B. Letaief.
+- Mar. 2024, I joined in HKUST as a post-doctoral fellow, working with Prof. [Khaled B. Letaief](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=khaled-ben-letaief-eekhaled).
 - Nov. 2023, I passed my thesis defense.
-- Nov. 2022, I start my visiting in Oulu University as a visiting doctoral researcher, working with Prof. Mehdi Bennis.
+- Nov. 2022, I start my visiting in Oulu University as a visiting doctoral researcher, working with Prof. [Mehdi Bennis](https://sites.google.com/view/dr-mehdi-bennis/home).
 
 ## Highlighted Ongoing Work
 
@@ -50,4 +50,4 @@ Edge intelligence -->
 ### AI For Communication
 - **Z. Wang**, J. Zong, Y. Zhou, Y. Shi, and V. W.S. Wong. ''Decentralized Multi-Agent Power Control in Wireless Networks with Frequency Reuse'' accepted for publication in *IEEE Trans. Commun*., 2021. 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=a&t=n&d=KtCJQWJVw-eDi9A_ZPIXi6FcZtIjXAcKiQwjWcKFMcM&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=n&d=KtCJQWJVw-eDi9A_ZPIXi6FcZtIjXAcKiQwjWcKFMcM&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
