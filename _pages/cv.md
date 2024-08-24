@@ -37,27 +37,36 @@ redirect_from:
 
 - Supervisor: Prof. [Mehdi Bennis](https://sites.google.com/view/dr-mehdi-bennis/home)
 
+---
+
 ## Publications
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+---  
+
 ## Talks
 
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
+--- 
+
 ## Teaching
 
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+---
+
 ## Service and leadership
 
 - Reviewer of TWC, TCOM, JSAC, ICC, GLOBECOM, ICCC.
 - Assisting in hosting regular seminars of SIST, ShanghaiTech University (more than 60 times).
-- TA of Signal Detection and Estimation, 2019.
-- TA of Convex Optimization, 2020.
+- TA in Shanghaitech University
+  - Signal Detection and Estimation, 2019.
+  - Convex Optimization, 2020.
