@@ -4,4 +4,4 @@ excerpt: "Dining, Rome, 2023. <br/><img src='/images/ICC2023.jpg'>"
 collection: portfolio
 ---
 
-After a long conference day with my presentation, I joined in a gathering dinner with Prof. Vicent Wong, Prof. Robert Schober, and my advisor.
+After a long conference day with my presentation, I joined in a gathering dinner along with Prof. [Vicent Wong](https://people.ece.ubc.ca/~vincentw/Homepage/Home.html), Prof. [Robert Schober](https://www.tf.fau.eu/person/schober-robert/), and my advisor.
