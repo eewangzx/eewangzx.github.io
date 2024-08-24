@@ -27,15 +27,19 @@ Communication for AI:
 2. Next-generation wireless transmission technologies
 Edge intelligence -->
 
-News
-======
+## News
 
-Highlighted Ongoing Work
-======
+- Mar. 2024, I joined in HKUST as a post-doctoral fellow, working with Prof. Khaled. B. Letaief.
+- Nov. 2023, I passed my thesis defense.
+- Nov. 2022, I start my visiting in Oulu University as a visiting doctoral researcher, working with Prof. Mehdi Bennis.
+
+## Highlighted Ongoing Work
+
+- Edge LLM
+  - Our first work in edge LLM, "Federated Fine-Tuning for Pre-Trained Foundation Models Over Wireless Networks", have been submitted to IEEE transaction on Wireless Communication.
 
 
-Selected First-author Papers
-======
+## Selected First-author Papers
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=a&t=n&d=KtCJQWJVw-eDi9A_ZPIXi6FcZtIjXAcKiQwjWcKFMcM&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>
