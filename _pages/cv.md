@@ -27,7 +27,7 @@ redirect_from:
 
 ### Hong Kong University of Science and Technology, Dept. ECE, Hong Kong
 
-- Post-doctoral Fellow (Mar. 2024 $\get$ Present)
+- Post-doctoral Fellow (Mar. 2024 -- Present)
 
 - Supervisor: Prof. [Khaled B. Letaief](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=khaled-ben-letaief-eekhaled)
 
