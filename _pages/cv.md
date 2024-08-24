@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Information and Communication, working with Prof. Yong Zhou, University of Chinese Academy of Sciences (ShanghaiTech University), Jan., 2024.
-* B.Sc. in Mathematics, Information and Computer Science., Wuhan University of Technology, 2018
+* B.Sc. in Mathematics, Information and Computer Science, Wuhan University of Technology, 2018
 
 Work experience
 ======
