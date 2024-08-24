@@ -1,7 +1,7 @@
 ---
 title: "Global Traffic State Recovery VIA Local Observations with Generative Adversarial Networks"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/ICASSP2020
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-4-09

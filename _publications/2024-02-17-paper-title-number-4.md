@@ -1,7 +1,7 @@
 ---
 title: "Graph Attention-based MADRL for Access Control and Resource Allocation in Wireless Networked Control Systems"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 # excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-08-09
