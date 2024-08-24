@@ -8,9 +8,9 @@ redirect_from:
   
 ---
 
-Currently, I'm a post-doctoral fellow in the Dept. ECE, Hong Kong University of Science and Technology (HKUST), Clearwater bay, Hong Kong, working with Prof. [Khaled B. Letaief](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=khaled-ben-letaief-eekhaled).
+Currently, I'm a post-doctoral fellow in the Dept. ECE, Hong Kong University of Science and Technology (HKUST), working with Prof. [Khaled B. Letaief](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=khaled-ben-letaief-eekhaled).
 
-Prior to this, I have received the Ph.D. degree with the School of Information Science and Technology, ShanghaiTech University, Shanghai, China, in 2024, supervised by Prof. [Yong Zhou](https://faculty.sist.shanghaitech.edu.cn/faculty/zhouyong/index.html), and the B.Sc. degree from Wuhan University of Technology, Wuhan, China, in 2018.
+Prior to this, I have received the Ph.D. degree from University of Chinese Academy of Sciences (ShanghaiTech University), Shanghai, China, in 2024, supervised by Prof. [Yong Zhou](https://faculty.sist.shanghaitech.edu.cn/faculty/zhouyong/index.html), and the B.Sc. degree from Wuhan University of Technology, Wuhan, China, in 2018.
 During Nov. 2022 to Oct. 2023, I was a visiting doctoral researcher in CWC, Oulu university, supervised by Prof. [Mehdi Bennis](https://sites.google.com/view/dr-mehdi-bennis/home).
 
 My research areas include **edge AI, radio resource management, and distributed AI in B5G/6G**.
