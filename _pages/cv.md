@@ -18,20 +18,11 @@ Work experience
 ======
 * Mar. 2024--Present: Post-doctoral researcher
   * Hong Kong University of Science and Technology, Dept. ECE
-  * Supervisor: Prof. Khaled B. Letaief
+  * Supervisor: Prof. [Khaled B. Letaief](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=khaled-ben-letaief-eekhaled)
 
 * Nov. 2022--Oct. 2023: Visiting doctoral researcher
   * Oulu University
-  * Supervisor: Prof. Mehdi Bennis
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Supervisor: Prof. [Mehdi Bennis](https://sites.google.com/view/dr-mehdi-bennis/home)
 
 Publications
 ======
