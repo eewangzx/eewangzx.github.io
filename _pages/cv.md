@@ -11,12 +11,6 @@ redirect_from:
 
 # Education
 
-<style>
-hr:nth-of-type(3) {
-  border-width: 10px 0 0 0 !important;
-}
-</style>
-
 ## University of Chinese Academy of Sciences (ShanghaiTech University) 
 
 ### Ph.D. in Information and Communication (Sept. 2018 —— Jan., 2024)
@@ -28,9 +22,10 @@ hr:nth-of-type(3) {
 
 # Work experience
 
-
 ## Hong Kong University of Science and Technology, Dept. ECE, Hong Kong 
+
 ### Post-doctoral Fellow (Mar. 2024--Present)
+
   - Supervisor: Prof. [Khaled B. Letaief](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=khaled-ben-letaief-eekhaled)
 
 ## Oulu University, Centre of Wireless Communication, Finland 
