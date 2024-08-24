@@ -28,7 +28,8 @@ Communication for AI:
 Edge intelligence -->
 
 ## News
-
+- Aug. 2024, our work "Graph Attention-based MADRL for Access Control and Resource Allocation in Wireless Networked Control Systems" is accepted by IEEE trans. wireless commun.. 
+- Aug. 2024, our work "Federated Low-Rank Adaptation for Large Language Model Fine-Tuning Over Wireless Networks" is accepted by GLOBECOM 2024.
 - Mar. 2024, I joined in HKUST as a post-doctoral fellow, working with Prof. Khaled. B. Letaief.
 - Nov. 2023, I passed my thesis defense.
 - Nov. 2022, I start my visiting in Oulu University as a visiting doctoral researcher, working with Prof. Mehdi Bennis.
@@ -36,7 +37,7 @@ Edge intelligence -->
 ## Highlighted Ongoing Work
 
 - Edge LLM
-  - Our first work in edge LLM, "Federated Fine-Tuning for Pre-Trained Foundation Models Over Wireless Networks", have been submitted to IEEE transaction on Wireless Communication.
+  - Our first work in edge LLM, "Federated Fine-Tuning for Pre-Trained Foundation Models Over Wireless Networks", have been submitted to IEEE trans. wireless commun..
 
 
 ## Selected First-author Papers
