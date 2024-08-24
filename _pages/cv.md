@@ -21,7 +21,7 @@ redirect_from:
 
 - B.Sc. in Mathematics, Information and Computer Science  (Sept., 2014 —— Jun., 2018)
 
-</br>
+<br />
 
 ## Work Experience
 
