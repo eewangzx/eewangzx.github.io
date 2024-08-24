@@ -11,26 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Information and Communication, working with Prof. Yong Zhou, University of Chinese Academy of Sciences (ShanghaiTech University), Jan., 2024.
+* B.Sc. in Mathematics, Information and Computer Science., Wuhan University of Technology, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Mar. 2024--Present: Post-doctoral researcher
+  * Hong Kong University of Science and Technology, Dept. ECE
+  * Supervisor: Prof. Khaled B. Letaief
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Nov. 2022--Oct. 2023: Visiting doctoral researcher
+  * Oulu University
+  * Supervisor: Prof. Mehdi Bennis
   
 Skills
 ======
@@ -61,4 +53,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer of TWC, TCOM, JSAC, ICC, GLOBECOM, ICCC.
+* Assisting in hosting regular seminars of SIST, ShanghaiTech University (more than 60 times).
+* TA of Signal Detection and Estimation, 2019.
+* TA of Convex Optimization, 2020.
