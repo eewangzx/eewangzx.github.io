@@ -2,7 +2,7 @@
 title: "Joint Traffic Signal and Connected Vehicle Control in IoV via Deep Reinforcement Learning"
 collection: publications
 category: conferences
-permalink: /publication/WCNC2021
+permalink: /publication/paper8
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-5-05
 venue: 'Proc. IEEE WCNC'

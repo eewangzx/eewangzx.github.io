@@ -41,6 +41,13 @@ Edge intelligence -->
 
 
 ## Selected First-author Papers
+### Communication For AI
+- **Z. Wang**, M. Bennis, and Y. Zhou. ''Graph Attention-based MADRL for Access Control and Resource Allocation in Wireless Networked Control Systems'', accepted for publication in *IEEE Trans. Wireless Commun.*, 2024.
+- **Z. Wang**, Y. Zou, Q. An, Y. Zhou, Y. Shi, and M. Bennis. ''A Graph Neural Network Learning Approach to Optimize RIS-Assisted Federated Learning'', accepted for publication in *IEEE Trans. Wireless Commun*., 2023. 
+- **Z. Wang**, Y. Zhou, and Y. Shi. ''Over-the-air Federated Graph Learning'', submitted to *IEEE Trans. Wireless Commun.*, 2023 (Minor review).
+- **Z. Wang**, Y. Zhou, Y. Shi, and K. B. Letaief. ''Federated Fine-Tuning for Pre-Trained Foundation Models Over Wireless Networks'', submitted to *IEEE Trans. Wireless Commun.*, 2024.
 
+### AI For Communication
+- **Z. Wang**, J. Zong, Y. Zhou, Y. Shi, and V. W.S. Wong. ''Decentralized Multi-Agent Power Control in Wireless Networks with Frequency Reuse'' accepted for publication in *IEEE Trans. Commun*., 2021. 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=a&t=n&d=KtCJQWJVw-eDi9A_ZPIXi6FcZtIjXAcKiQwjWcKFMcM&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>

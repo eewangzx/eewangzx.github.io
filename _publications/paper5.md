@@ -2,7 +2,7 @@
 title: "GAN and Multi-Agent DRL based Decentralized Traffic Light Signal Control"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/paper5
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2021-12-13
 venue: 'IEEE Trans. Veh. Technol'
