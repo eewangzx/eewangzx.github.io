@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " "
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -22,11 +22,11 @@ redirect_from:
 - B.Sc. in Mathematics, Information and Computer Science  (Sept. 2014 —— Jun., 2018)
 <br></br>
 
-## Work experience
+## Work Experience
 
 ### Hong Kong University of Science and Technology, Dept. ECE, Hong Kong
 
-- Post-doctoral Fellow (Mar. 2024--Present)
+- Post-doctoral Fellow (Mar. 2024 $\get$ Present)
 
 - Supervisor: Prof. [Khaled B. Letaief](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=khaled-ben-letaief-eekhaled)
 
