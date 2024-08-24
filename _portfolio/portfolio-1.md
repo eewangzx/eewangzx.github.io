@@ -1,6 +1,6 @@
 ---
 title: "ICC 2023"
-excerpt: "Dining, Rome, 2023. <br/><img src='/images/ICC2023(2).jpg'>"
+excerpt: "Dining, Rome, 2023. <br/><img src='/images/ICC2023.jpg'>"
 collection: portfolio
 ---
 
