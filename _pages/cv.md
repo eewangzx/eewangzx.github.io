@@ -33,7 +33,7 @@ redirect_from:
 
 ### Oulu University, Centre of Wireless Communication, Finland
 
-- Visiting Doctoral Researcher (Nov. 2022--Oct. 2023)
+- Visiting Doctoral Researcher (Nov. 2022 -- Oct. 2023)
 
 - Supervisor: Prof. [Mehdi Bennis](https://sites.google.com/view/dr-mehdi-bennis/home)
 
