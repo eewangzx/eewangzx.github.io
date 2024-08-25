@@ -39,15 +39,15 @@ redirect_from:
 
 ---
 
-## Publications
+<!-- ## Publications
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
----  
+<!-- ---   -->
 
-## Talks
+<!-- ## Talks
 
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -61,7 +61,7 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
----
+--- -->
 
 ## Service and leadership
 
