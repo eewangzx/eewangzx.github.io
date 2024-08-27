@@ -15,6 +15,7 @@ During Nov. 2022 to Oct. 2023, I was a visiting doctoral researcher in CWC, Oulu
 
 My research areas include **edge AI, radio resource management, and distributed AI in B5G/6G**.
 
+<h3 id="my_email" onmouseover="shuffle_stanford()">eewangzx@ust.hk</h3>
 <!-- My research is primarily centered around the utilization of Generative AI in Intelligent networks. Our key objective is to explore "how the intelligent networks can support various AI-Generated Content (AIGC) services", and "how generative AI can improve the intelligent network performance, security, and reliability". This involves exploring the integration of various networking methodologies: -->
 
 <!-- AI for Communication:
@@ -55,6 +56,5 @@ Edge intelligence -->
 ---
 
 <q>我见青山多妩媚 料青山见我应如是。</q> &#8211;辛弃疾
-
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=n&d=KtCJQWJVw-eDi9A_ZPIXi6FcZtIjXAcKiQwjWcKFMcM&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
