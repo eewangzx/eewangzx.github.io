@@ -13,13 +13,13 @@ redirect_from:
 
 ### University of Chinese Academy of Sciences (ShanghaiTech University)
 
-- Ph.D. in Information and Communication (Sept., 2018 —— Jan., 2024)
+- Ph.D. in Information and Communication (Sept., 2018 -- Jan., 2024)
 
 - Supervisor: Prof. [Yong Zhou](https://faculty.sist.shanghaitech.edu.cn/faculty/zhouyong/index.html)
   
 ### Wuhan University of Technology
 
-- B.Sc. in Mathematics, Information and Computer Science  (Sept., 2014 —— Jun., 2018)
+- B.Sc. in Mathematics, Information and Computer Science  (Sept., 2014 -- Jun., 2018)
 
 ---
 
