@@ -17,6 +17,7 @@ My research areas include **edge AI, radio resource management, and distributed 
 
 ## News
 
+- Sept. 2024, our work "Over-the-air Federated Graph Learning" is accepted by *IEEE Trans. Wireless Commun.*.
 - Aug. 2024, our work "Graph Attention-based MADRL for Access Control and Resource Allocation in Wireless Networked Control Systems" is accepted by *IEEE Trans. Wireless Commun.*.
 - Aug. 2024, our work "Federated Low-Rank Adaptation for Large Language Model Fine-Tuning Over Wireless Networks" is accepted by GLOBECOM 2024.
 - Mar. 2024, I joined in HKUST as a post-doctoral fellow, working with Prof. [Khaled B. Letaief](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=khaled-ben-letaief-eekhaled).
