@@ -49,4 +49,4 @@ My research areas include **edge AI, radio resource management, and distributed 
 > 我见青山多妩媚, 料青山见我应如是。—— 辛弃疾 (1140–1207)
 <!-- <q>我见青山多妩媚 料青山见我应如是。</q> &#8211;辛弃疾 -->
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=n&d=KtCJQWJVw-eDi9A_ZPIXi6FcZtIjXAcKiQwjWcKFMcM&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=d3d3d3&w=a&t=n&d=Yqy2OFBKzdm3tNjEiEUS1eF0Ls7s8_y0pmkGlVbygzQ&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
