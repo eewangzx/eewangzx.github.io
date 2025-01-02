@@ -17,6 +17,8 @@ My research areas include **edge AI, radio resource management, and distributed 
 
 ## News
 
+- Our work "Edge Large AI Models: Revolutionizing 6G Networks" is submitted to *IEEE Commun. Mag.*
+- Dec. 2024, wonderful experience in GLOBECOM 2024, Capetown, SA, with exchanging ideas about FedFT and learning more from others.
 - Sept. 2024, it is glad to attend *IEEE Hong Kong 6G Wireless Summit*.
 - Sept. 2024, our work "Over-the-air Federated Graph Learning" is accepted by *IEEE Trans. Wireless Commun.*.
 - Aug. 2024, our work "Graph Attention-based MADRL for Access Control and Resource Allocation in Wireless Networked Control Systems" is accepted by *IEEE Trans. Wireless Commun.*.
