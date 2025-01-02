@@ -17,7 +17,7 @@ My research areas include **edge AI, radio resource management, and distributed 
 
 ## News
 
-- Our work "Edge Large AI Models: Revolutionizing 6G Networks" is submitted to *IEEE Commun. Mag.*
+- Our work "Edge Large AI Models: Revolutionizing 6G Networks" is submitted to *IEEE Commun. Mag.*, wish me luck.
 - Dec. 2024, wonderful experience in GLOBECOM 2024, Capetown, SA, with exchanging ideas about FedFT and learning more from others.
 - Sept. 2024, it is glad to attend *IEEE Hong Kong 6G Wireless Summit*.
 - Sept. 2024, our work "Over-the-air Federated Graph Learning" is accepted by *IEEE Trans. Wireless Commun.*.
@@ -29,8 +29,10 @@ My research areas include **edge AI, radio resource management, and distributed 
 
 ## Highlighted Ongoing Work
 
-- **Edge LLM**
-  - Our first work in edge LLM, "**Federated Fine-Tuning for Pre-Trained Foundation Models Over Wireless Networks**", has been submitted to *IEEE Trans. Wireless Commun.*. [Link](https://arxiv.org/abs/2407.02924)
+- **Edge LAM**
+  - Our first work in edge LAM, ["**Federated Fine-Tuning for Pre-Trained Foundation Models Over Wireless Networks**"](https://arxiv.org/abs/2407.02924), has been submitted to *IEEE Trans. Wireless Commun.*. 
+  - By digging deep into the communication and computational logic of LoRA, our work ["**Federated Low-Rank Adaptation with Differential Privacy over Wireless Networks**"](https://arxiv.org/html/2411.07806v2), has been submitted to *ICC 2024*. This paper further explore the FedFT framework in conjunction with differential privacy and propose a FedFT with DP framework, which investigates the impact of noise on FedFT with LoRA. The simulation results demonstrate the superiority compared with the [ICLR2024 paper](https://openreview.net/forum?id=NLPzL6HWNl). 
+  - Our blue picture in edge LAM, "**Edge Large AI Models: Revolutionizing 6G Networks**", has been submitted to *IEEE Commun. Mag.*. 
 
 ## Selected First-author Papers
 
@@ -40,6 +42,8 @@ My research areas include **edge AI, radio resource management, and distributed 
 - **Z. Wang**, Y. Zou, Q. An, Y. Zhou, Y. Shi, and M. Bennis. ''A Graph Neural Network Learning Approach to Optimize RIS-Assisted Federated Learning'', accepted for publication in *IEEE Trans. Wireless Commun*., 2023.
 - **Z. Wang**, Y. Zhou, and Y. Shi. ''Over-the-air Federated Graph Learning'', accepted for publication in*IEEE Trans. Wireless Commun.*, 2024.
 - **Z. Wang**, Y. Zhou, Y. Shi, and K. B. Letaief. ''Federated Fine-Tuning for Pre-Trained Foundation Models Over Wireless Networks'', submitted to *IEEE Trans. Wireless Commun.*, 2024.
+- T. Kang,  **Z. Wang**, H. He, J. Zhang, Jun, S. Song, and K. B. Letaief. ''Federated Low-Rank Adaptation with Differential Privacy over Wireless Networks'', submitted to *ICC 2024*.
+- **Z. Wang**, Yuanming Shi, Yong Zhou, Jingyang Zhu, and Khaled. B. Letaief ''Edge Large AI Models: Revolutionizing 6G Networks'', submitted to *IEEE Commun. Mag.*, 2024.
 
 ### AI For Communication
 
