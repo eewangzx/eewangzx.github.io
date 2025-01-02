@@ -15,7 +15,7 @@ redirect_from:
 
 - Ph.D. in Information and Communication (Sept., 2018 -- Jan., 2024)
 
-- Supervisor: Prof. [Yong Zhou](https://faculty.sist.shanghaitech.edu.cn/faculty/zhouyong/index.html)
+- Supervisor: Prof. [Yong Zhou](https://faculty.sist.shanghaitech.edu.cn/faculty/zhouyong/index.html) and Prof. [Yuanming Shi](https://shiyuanming.github.io/)
   
 ### Wuhan University of Technology
 
