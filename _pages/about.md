@@ -17,7 +17,7 @@ My research areas include **edge AI, radio resource management, and distributed 
 
 ## News
 
-- Jan. 2025, our work "Federated Fine-Tuning for Pre-Trained Foundation Models Over Wireless Networks" is accepted by *IEEE Trans. Wireless Commun.*.
+- Jan. 2025, our work "Federated Fine-Tuning for Pre-Trained Foundation Models Over Wireless Networks" is accepted by *IEEE Trans. Wireless Commun.*. [[Paper link](https://ieeexplore.ieee.org/abstract/document/10855336)]
 - Our work "Edge Large AI Models: Revolutionizing 6G Networks" is submitted to *IEEE Commun. Mag.*, wish me luck.
 - Dec. 2024, wonderful experience in GLOBECOM 2024, Capetown, SA, with exchanging ideas about FedFT and learning more from others.
 - Sept. 2024, it is glad to attend *IEEE Hong Kong 6G Wireless Summit*.
