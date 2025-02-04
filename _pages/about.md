@@ -31,7 +31,7 @@ My research areas include **edge AI, radio resource management, and distributed 
 ## Highlighted Ongoing Work
 
 - **Edge LAM**
-  - Our first work in edge LAM, ["**Federated Fine-Tuning for Pre-Trained Foundation Models Over Wireless Networks**"](https://arxiv.org/abs/2407.02924), accepted for publication in *IEEE Trans. Wireless Commun.*. 
+  - Our first work in edge LAM, ["**Federated Fine-Tuning for Pre-Trained Foundation Models Over Wireless Networks**"](https://ieeexplore.ieee.org/abstract/document/10855336), accepted for publication in *IEEE Trans. Wireless Commun.*. 
   - By digging deep into the communication and computational logic of LoRA, our work ["**Federated Low-Rank Adaptation with Differential Privacy over Wireless Networks**"](https://arxiv.org/html/2411.07806v2), has been submitted to *ICC 2024*. This paper further explore the FedFT framework in conjunction with differential privacy and propose a FedFT with DP framework, which investigates the impact of noise on FedFT with LoRA. The simulation results demonstrate the superiority compared with the [ICLR2024 paper](https://openreview.net/forum?id=NLPzL6HWNl). 
   - Our blue picture in edge LAM, "**Edge Large AI Models: Revolutionizing 6G Networks**", has been submitted to *IEEE Commun. Mag.*. 
 
