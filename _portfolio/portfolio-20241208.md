@@ -4,3 +4,4 @@ excerpt: "Meeting with Vincent Wong, and old friends from Oulu. <br/><img src='/
 collection: portfolio
 date: 2024-12-08
 ---
+Nice experience in  SA.
