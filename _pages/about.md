@@ -39,10 +39,10 @@ My research areas include **edge AI, radio resource management, and distributed 
 
 ### Communication For AI
 
+- **Z. Wang**, Y. Zhou, Y. Shi, and K. B. Letaief. ''Federated Fine-Tuning for Pre-Trained Foundation Models Over Wireless Networks'', accepted for publication in *IEEE Trans. Wireless Commun.*, 2025.
 - **Z. Wang**, M. Bennis, and Y. Zhou. ''Graph Attention-based MADRL for Access Control and Resource Allocation in Wireless Networked Control Systems'', accepted for publication in *IEEE Trans. Wireless Commun.*, 2024.
-- **Z. Wang**, Y. Zou, Q. An, Y. Zhou, Y. Shi, and M. Bennis. ''A Graph Neural Network Learning Approach to Optimize RIS-Assisted Federated Learning'', accepted for publication in *IEEE Trans. Wireless Commun*., 2023.
 - **Z. Wang**, Y. Zhou, and Y. Shi. ''Over-the-air Federated Graph Learning'', accepted for publication in*IEEE Trans. Wireless Commun.*, 2024.
-- **Z. Wang**, Y. Zhou, Y. Shi, and K. B. Letaief. ''Federated Fine-Tuning for Pre-Trained Foundation Models Over Wireless Networks'', accepted for publication in *IEEE Trans. Wireless Commun.*, 2024.
+- **Z. Wang**, Y. Zou, Q. An, Y. Zhou, Y. Shi, and M. Bennis. ''A Graph Neural Network Learning Approach to Optimize RIS-Assisted Federated Learning'', accepted for publication in *IEEE Trans. Wireless Commun*., 2023.
 - T. Kang,  **Z. Wang**, H. He, J. Zhang, Jun, S. Song, and K. B. Letaief. ''Federated Low-Rank Adaptation with Differential Privacy over Wireless Networks'', accepted for publication in *ICC 2024*.
 - **Z. Wang**, Yuanming Shi, Yong Zhou, Jingyang Zhu, and Khaled. B. Letaief ''Edge Large AI Models: Revolutionizing 6G Networks'', submitted to *IEEE Commun. Mag.*, 2024.
 
