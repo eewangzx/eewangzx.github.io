@@ -4,4 +4,3 @@ excerpt: "Accepted paper with topic in intelligent transportation system. <br/><
 collection: portfolio
 date: 2021-03-29
 ---
-Accepted paper with topic in intelligent transportation system.
