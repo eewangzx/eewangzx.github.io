@@ -4,9 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
 You can also find my publications in [Google Scholar](https://scholar.google.com/citations?user=hgyz-1MAAAAJ&hl=zh-CN)
 
-## Journals
+# Journals
 
 1. **Z. Wang**, Y. Shi, and K. B. Letaief, "Edge Large AI Models: Collaborative Deployment and IoT Applications," submitted to *IEEE IoT Mag.*, 2025. (Major Revision)
 2. H. Li, S. Xie, J. Shao, **Z. Wang**, H. He, S. Song, J. Zhang and K. B. Letaief, "Mutual Information-Empowered Task-Oriented Communication: Principles, Applications and Challenges," submitted to *IEEE Commun. Mag.*, 2025. 
