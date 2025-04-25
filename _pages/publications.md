@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Journals
+## Journals
 
 1. **Z. Wang**, Y. Shi, and K. B. Letaief, "Edge Large AI Models: Collaborative Deployment and IoT Applications," submitted to *IEEE IoT Mag.*, 2025. (Major Revision)
 2. H. Li, S. Xie, J. Shao, **Z. Wang**, H. He, S. Song, J. Zhang and K. B. Letaief, "Mutual Information-Empowered Task-Oriented Communication: Principles, Applications and Challenges," submitted to *IEEE Commun. Mag.*, 2025. 
@@ -25,7 +25,7 @@ author_profile: true
 16. **Z. Wang**, J. Zong, Y. Zhou, Y. Shi, and V. W.S. Wong, "Decentralized Multi-Agent Power Control in Wireless Networks with Frequency Reuse," *IEEE Trans. Commun*., vol. 70, no. 3, pp. 1666-1681, Mar. 2022.
 17. H. Zhu, **Z. Wang**, F. Yang, Y. Zhou, and X. Luo, "Intelligent Traffic Network Control in the Era of Internet of Vehicles," *IEEE Trans. Veh. Technol*., vol. 70. no. 10, pp. 9787-9802, Oct. 2021. 
 
-# Conferences
+## Conferences
 
 1. H. Yuan, **Z. Wang**, Y. Jiang, X. Liu, Y. Shi, and T. Wang, "SAI: Latency-aware Satellite Edge LAM Inference with Looped Transformer," *IEEE Int.l' Conf. Commun. (ICC)*, Montreal, Canada, Jun. 2025. 
 2. T. Kang, **Z. Wang**, H. He, J. Zhang, S. H. Song, and Khaled B. Letaief, "Federated Low-rank Adaptation with Differential Privacy over Wireless Networks," submitted to *IEEE MeditCom*, 2024.
