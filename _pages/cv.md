@@ -65,8 +65,8 @@ redirect_from:
 
 ## Service and leadership
 
-- Reviewer of TWC, TCOM, JSAC, ICC, GLOBECOM, ICCC.
+- Reviewer of ICM, TMC, TWC, TCOM, JSAC, ICC, GLOBECOM, etc.
 - Assisting in hosting regular seminars of SIST, ShanghaiTech University (more than 60 times).
-- TA in Shanghaitech University
+- TA in ShanghaiTech University
   - Signal Detection and Estimation, 2019.
   - Convex Optimization, 2020.
