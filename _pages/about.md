@@ -55,5 +55,4 @@ My research areas include **edge AI, edge foundation AI model, AI for wireless, 
 
 > 我见青山多妩媚, 料青山见我应如是。—— 辛弃疾 (1140–1207)
 
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=n&d=Yqy2OFBKzdm3tNjEiEUS1eF0Ls7s8_y0pmkGlVbygzQ&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+<a href='https://clustrmaps.com/site/1c20n'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=a&t=n&d=Yqy2OFBKzdm3tNjEiEUS1eF0Ls7s8_y0pmkGlVbygzQ&co=ffffff&ct=808080'/></a>
