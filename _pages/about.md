@@ -5,7 +5,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-  
 ---
 
 Currently, I'm a post-doctoral fellow in the Dept. ECE, Hong Kong University of Science and Technology (HKUST), working with Prof. [Khaled B. Letaief](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=khaled-ben-letaief-eekhaled).
@@ -55,6 +54,6 @@ My research areas include **edge AI, edge foundation AI model, AI for wireless, 
 ---
 
 > 我见青山多妩媚, 料青山见我应如是。—— 辛弃疾 (1140–1207)
-<!-- <q>我见青山多妩媚 料青山见我应如是。</q> &#8211;辛弃疾 -->
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=d3d3d3&w=a&t=n&d=Yqy2OFBKzdm3tNjEiEUS1eF0Ls7s8_y0pmkGlVbygzQ&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=n&d=Yqy2OFBKzdm3tNjEiEUS1eF0Ls7s8_y0pmkGlVbygzQ&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
