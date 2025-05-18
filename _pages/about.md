@@ -16,6 +16,8 @@ My research areas include `edge intelligence`, `edge large AI model`, `federated
 
 ## News
 
+- May 2025, our work "[Edge Large AI Models: Collaborative Deployment and IoT Applications](https://arxiv.org/abs/2505.03139)" is accepted by IEEE IoT. Mag.! On the same day!
+- May 2025, our work "[Edge Large AI Models: Revolutionizing 6G Networks](https://arxiv.org/abs/2505.00321)" is accepted by IEEE Commun. Mag.!
 - May 2025, our works "[Edge Large AI Models: Revolutionizing 6G Networks](https://arxiv.org/abs/2505.00321)" and "[Edge Large AI Models: Collaborative Deployment and IoT Applications](https://arxiv.org/abs/2505.03139)" are available at Arxiv.
 - Mar. 2025, our work "Microservice Migration in Hybrid Satellite-Terrestrial Networks for Autonomous Vehicles" is accepted by *J. Commun. Info. Netw.* and selected for the cover article.
 - Mar. 2025, our work "Learning to Beamform for Integrated Sensing and Communication: A Graph Neural Network with Implicit Projection Approach" is accepted by *IEEE Trans. Wireless Commun.* [[Paper link](https://ieeexplore.ieee.org/document/10932672)].
@@ -41,8 +43,8 @@ My research areas include `edge intelligence`, `edge large AI model`, `federated
 
 ### Edge Large AI Model
 
-- **Z. Wang**, Yuanming Shi, and Khaled. B. Letaief. ''Edge Large AI Models: Collaborative Deployment and IoT Applications,'' under review by *IEEE IoT Mag.*, 2025 (Major revision).
-- **Z. Wang**, Y Shi, Y Zhou, J Zhu, K Letaief. ''Edge Large AI Models: Revolutionizing 6G Networks,'' under review by *IEEE Commun. Mag.*, 2025 (Major revision).
+- **Z. Wang**, Yuanming Shi, and Khaled. B. Letaief. ''Edge Large AI Models: Collaborative Deployment and IoT Applications,'' accepted by *IEEE IoT Mag.*, 2025, to appear.
+- **Z. Wang**, Y Shi, Y Zhou, J Zhu, K Letaief. ''Edge Large AI Models: Revolutionizing 6G Networks,'' accepted by *IEEE Commun. Mag.*, 2025, to appear.
 - **Z. Wang**, Y. Zhou, Y. Shi, and K. B. Letaief. ''Federated Fine-Tuning for Pre-Trained Foundation Models Over Wireless Networks'', accepted for publication in *IEEE Trans. Wireless Commun.*, 2025.
 - T. Kang,  **Z. Wang**, H. He, J. Zhang, Jun, S. Song, and K. B. Letaief. ''Federated Low-Rank Adaptation with Differential Privacy over Wireless Networks'', accepted for publication in *MeditCom 2025*.
 
