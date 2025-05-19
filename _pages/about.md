@@ -20,7 +20,7 @@ My research areas include `edge intelligence`, `edge large AI model`, `federated
 - May 2025, our work "[Edge Large AI Models: Revolutionizing 6G Networks](https://arxiv.org/abs/2505.00321)" is accepted by IEEE Commun. Mag.!
 - May 2025, our works "[Edge Large AI Models: Revolutionizing 6G Networks](https://arxiv.org/abs/2505.00321)" and "[Edge Large AI Models: Collaborative Deployment and IoT Applications](https://arxiv.org/abs/2505.03139)" are available at Arxiv.
 - Mar. 2025, our work "Microservice Migration in Hybrid Satellite-Terrestrial Networks for Autonomous Vehicles" is accepted by *J. Commun. Info. Netw.* and selected for the cover article.
-- Mar. 2025, our work "Learning to Beamform for Integrated Sensing and Communication: A Graph Neural Network with Implicit Projection Approach" is accepted by *IEEE Trans. Wireless Commun.* [[Paper link](https://ieeexplore.ieee.org/document/10932672)].
+- Mar. 2025, our work "Learning to Beamform for Integrated Sensing and Communication: A Graph Neural Network with Implicit Projection Approach" is accepted by *IEEE Trans. Wireless Commun.* [[Paper link]](https://ieeexplore.ieee.org/document/10932672)].
 - Jan. 2025, our work "Federated Fine-Tuning for Pre-Trained Foundation Models Over Wireless Networks" is accepted by *IEEE Trans. Wireless Commun.*. [[Paper link](https://ieeexplore.ieee.org/abstract/document/10855336)]
 - Dec. 2024, I had a wonderful experience at GLOBECOM 2024, Capetown, SA, exchanging ideas about FedFT and learning more from others.
 - Sept. 2024, it is glad to attend *IEEE Hong Kong 6G Wireless Summit*.
@@ -35,9 +35,9 @@ My research areas include `edge intelligence`, `edge large AI model`, `federated
 
 - **Edge LAM**
   - Our extended research on Edge LAM within the framework of IoT systems, titled "Edge Large AI Models: Collaborative Deployment and IoT Applications," accepted for publication in *IEEE IoT. Mag.*. [[Arxiv link]](https://arxiv.org/abs/2505.03139).
-  - Our blue picture in Edge LAM, "**Edge Large AI Models: Revolutionizing 6G Networks**," accepted for publication in *IEEE Commun. Mag.*. [[Arxiv link](https://arxiv.org/abs/2505.00321).
+  - Our blue picture in Edge LAM, "**Edge Large AI Models: Revolutionizing 6G Networks**," accepted for publication in *IEEE Commun. Mag.*. [[Arxiv link]](https://arxiv.org/abs/2505.00321).
   - Our first work in edge LAM, ["**Federated Fine-Tuning for Pre-Trained Foundation Models Over Wireless Networks**"](https://ieeexplore.ieee.org/abstract/document/10855336), accepted for publication in *IEEE Trans. Wireless Commun.*.
-  - By digging deep into the communication and computational logic of LoRA, our work ["**Federated Low-Rank Adaptation with Differential Privacy over Wireless Networks**"](https://arxiv.org/html/2411.07806v2) accepted for publication in *MEDITCOM  2025*. This paper further explores the FedFT framework in conjunction with differential privacy and proposes a FedFT with DP framework, which investigates the impact of noise on FedFT with LoRA. The simulation results demonstrate the superiority compared with the [ICLR2024 paper](https://openreview.net/forum?id=NLPzL6HWNl).
+  - By digging deep into the communication and computational logic of LoRA, our work ["**Federated Low-Rank Adaptation with Differential Privacy over Wireless Networks**"](https://arxiv.org/html/2411.07806v2) accepted for publication in *MEDITCOM  2025*. This paper further explores the FedFT framework in conjunction with differential privacy and proposes a FedFT with DP framework, which investigates the impact of noise on FedFT with LoRA. The simulation results are superior to the [ICLR2024 paper](https://openreview.net/forum?id=NLPzL6HWNl).
 
 ## Selected Papers by Area
 
