@@ -19,7 +19,7 @@ My research areas include `edge intelligence`, `edge large AI model`, `federated
 - May 2025, our work "[Edge Large AI Models: Collaborative Deployment and IoT Applications](https://arxiv.org/abs/2505.03139)" is accepted by IEEE IoT. Mag.! On the same day!
 - May 2025, our work "[Edge Large AI Models: Revolutionizing 6G Networks](https://arxiv.org/abs/2505.00321)" is accepted by IEEE Commun. Mag.!
 - Mar. 2025, our work "Microservice Migration in Hybrid Satellite-Terrestrial Networks for Autonomous Vehicles" is accepted by *J. Commun. Info. Netw.* and selected for the cover article.
-- Mar. 2025, our work "Learning to Beamform for Integrated Sensing and Communication: A Graph Neural Network with Implicit Projection Approach" is accepted by *IEEE Trans. Wireless Commun.* [[Paper link]](https://ieeexplore.ieee.org/document/10932672)].
+- Mar. 2025, our work "Learning to Beamform for Integrated Sensing and Communication: A Graph Neural Network with Implicit Projection Approach" is accepted by *IEEE Trans. Wireless Commun.* [[Paper link]](https://ieeexplore.ieee.org/document/10932672).
 - Jan. 2025, our work "Federated Fine-Tuning for Pre-Trained Foundation Models Over Wireless Networks" is accepted by *IEEE Trans. Wireless Commun.*. [[Paper link](https://ieeexplore.ieee.org/abstract/document/10855336)]
 - Dec. 2024, I had a wonderful experience at GLOBECOM 2024, Capetown, SA, exchanging ideas about FedFT and learning more from others.
 - Sept. 2024, it is glad to attend *IEEE Hong Kong 6G Wireless Summit*.
