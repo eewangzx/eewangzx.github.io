@@ -14,13 +14,13 @@ body {
 
 ## Journals
 
-1. **Z. Wang**, Y. Shi, and K. B. Letaief, "Edge Large AI Models: Collaborative Deployment and IoT Applications," submitted to *IEEE IoT Mag.*, 2025. (Major Revision)
+1. **Z. Wang**, Y. Shi, and K. B. Letaief, "Edge Large AI Models: Collaborative Deployment and IoT Applications," *IEEE IoT Mag.*, 2025, to appear.
 2. H. Li, S. Xie, J. Shao, **Z. Wang**, H. He, S. Song, J. Zhang and K. B. Letaief, "Mutual Information-Empowered Task-Oriented Communication: Principles, Applications and Challenges," submitted to *IEEE Commun. Mag.*, 2025. 
 3.  Y. Zou, **Z. Wang**, Y. Zhou, Y. Shi, "Joint Rank Optimization and Bandwidth Allocation for Heterogeneous Federated LoRA Fine-Tuning," submitted to *IEEE Trans. Veh. Technol.*, 2025. 
 4.  **Z. Wang**, Y. Zhou, Y. Shi, and K. B. Letaief, "Federated Fine-Tuning for Pre-Trained Foundation Models Over Wireless Networks," *IEEE Trans. Wireless Commun.*, 2025, to appear.  
 5.  Y. Zhao, Y. Zhou, **Z. Wang**, Y. Shi, N. Cheng, and H. Zhou, "Learning to Beamform for Integrated Sensing and Communication: A Graph Neural Network with Implicit Projection Approach,"*IEEE Trans. Wireless Commun.*, 2025, to appear.  
-6.  **Z. Wang**, Y. Zhou, Y. Shi, J. Zhu, and K. B. Letaief, "Edge Large AI Models: Revolutionizing 6G Networks," submitted to *IEEE Commun. Mag.*, 2025 (Major Revision).  
-7.  X. Long, Y. Jiang, **Z. Wang**, X. Liu, Y. Shi, and Y. Zhou, "Microservice Migration in Hybrid Satellite-Terrestrial Networks for Autonomous Vehicles," submitted to  *J. Commun. Info. Netw.*, 2025, to appear. 
+6.  **Z. Wang**, Y. Zhou, Y. Shi, J. Zhu, and K. B. Letaief, "Edge Large AI Models: Revolutionizing 6G Networks," *IEEE Commun. Mag.*, 2025, to appear.
+7.  X. Long, Y. Jiang, **Z. Wang**, X. Liu, Y. Shi, and Y. Zhou, "Microservice Migration in Hybrid Satellite-Terrestrial Networks for Autonomous Vehicles," *J. Commun. Info. Netw.*, 2025, to appear. 
 8.  **Z. Wang**, M. Bennis, and Y. Zhou, "Graph Attention-based MADRL for Access Control and Resource Allocation in Wireless Networked Control Systems," *IEEE Trans. Wireless Commun.*, vol. 23, no. 11, pp. 16076-16090, Nov. 2024.  
 9.  **Z. Wang**, Y. Zhou, and Y. Shi, "Over-the-air Federated Graph Learning," *IEEE Trans. Wireless Commun.*, vol. 23, no. 12, pp. 18669-18683, Dec. 2024.  
 10. S. Wan, **Z. Wang** and Y. Zhou, "Scalable Hybrid Beamforming for Multi-User MISO Systems: A Graph Neural Network Approach," *IEEE Trans. Wireless Commun.*, vol. 23, no. 10, pp. 13694-13706, Oct. 2024.  
@@ -35,7 +35,7 @@ body {
 ## Conferences
 
 1. H. Yuan, **Z. Wang**, Y. Jiang, X. Liu, Y. Shi, and T. Wang, "SAI: Latency-aware Satellite Edge LAM Inference with Looped Transformer," *IEEE Int.l' Conf. Commun. (ICC)*, Montreal, Canada, Jun. 2025. 
-2. T. Kang, **Z. Wang**, H. He, J. Zhang, S. H. Song, and Khaled B. Letaief, "Federated Low-rank Adaptation with Differential Privacy over Wireless Networks," submitted to *IEEE MeditCom*, 2024.
+2. T. Kang, **Z. Wang**, H. He, J. Zhang, S. H. Song, and Khaled B. Letaief, "Federated Low-rank Adaptation with Differential Privacy over Wireless Networks," *IEEE MeditCom*, 2025.
 3. **Z. Wang**, Y. Zhou, Y. Shi, and K. B. Letaief, "Federated Low-Rank Adaptation for Large Language Model Fine-Tuning Over Wireless Networks," *IEEE Global Commun. Conf. (GLOBECOM)*, Cape Town, South Africa, Dec., 2024. 
 4. G. Gao, Q. An, Z. Wang, **Z. Wang**, Y. Shi, and Y. Zhou, "Over-the-Air Computation Assisted Federated Learning With Progressive Training,"  *IEEE Int.l' Conf. Commun. (ICC)*, Denver, CO, USA, Jun., 2024. 
 5. Y. Zhao, **Z. Wang**, Z. Wang, X. Chen and Y. Zhou, "Learning to Beamform for Dual-Functional MIMO Radar-Communication Systems,"  *IEEE Int.l' Conf. Commun. (ICC)*, Roma, Italy, May, 2023. 
