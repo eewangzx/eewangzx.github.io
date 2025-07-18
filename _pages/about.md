@@ -9,7 +9,7 @@ redirect_from:
 
 Currently, I'm a post-doctoral fellow in the Dept. ECE, Hong Kong University of Science and Technology (HKUST), working with Prof. [Khaled B. Letaief](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=khaled-ben-letaief-eekhaled).
 
-Prior to this, I have received the Ph.D. degree from University of Chinese Academy of Sciences (ShanghaiTech University), Shanghai, China, in 2024, co-supervised by Prof. [Yong Zhou](https://faculty.sist.shanghaitech.edu.cn/faculty/zhouyong/index.html) and Prof. [Yuanming Shi](https://shiyuanming.github.io/), and the B.Sc. degree from Wuhan University of Technology, Wuhan, China, in 2018.
+Prior to this, I received the Ph.D. degree from the University of Chinese Academy of Sciences (ShanghaiTech University), Shanghai, China, in 2024, co-supervised by Prof. [Yong Zhou](https://faculty.sist.shanghaitech.edu.cn/faculty/zhouyong/index.html), and the B.Sc. degree from Wuhan University of Technology, Wuhan, China, in 2018.
 During Nov. 2022 to Oct. 2023, I was a visiting doctoral researcher in CWC, Oulu University, supervised by Prof. [Mehdi Bennis](https://sites.google.com/view/dr-mehdi-bennis/home).
 
 My research areas include `edge intelligence`, `edge large AI model`, `federated learning`, and `network optimization`.
@@ -21,7 +21,7 @@ My research areas include `edge intelligence`, `edge large AI model`, `federated
 - Mar. 2025, our work "Microservice Migration in Hybrid Satellite-Terrestrial Networks for Autonomous Vehicles" is accepted by *J. Commun. Info. Netw.* and selected for the cover article.
 - Mar. 2025, our work "Learning to Beamform for Integrated Sensing and Communication: A Graph Neural Network with Implicit Projection Approach" is accepted by *IEEE Trans. Wireless Commun.* [[Paper link]](https://ieeexplore.ieee.org/document/10932672).
 - Jan. 2025, our work "Federated Fine-Tuning for Pre-Trained Foundation Models Over Wireless Networks" is accepted by *IEEE Trans. Wireless Commun.*. [[Paper link](https://ieeexplore.ieee.org/abstract/document/10855336)]
-- Dec. 2024, I had a wonderful experience at GLOBECOM 2024, Capetown, SA, exchanging ideas about FedFT and learning more from others.
+- Dec. 2024, I had a wonderful experience at GLOBECOM 2024, Cape Town, SA, exchanging ideas about FedFT and learning more from others.
 - Sept. 2024, it is glad to attend *IEEE Hong Kong 6G Wireless Summit*.
 - Sept. 2024, our work "Over-the-air Federated Graph Learning" is accepted by *IEEE Trans. Wireless Commun.*.
 - Aug. 2024, our work "Graph Attention-based MADRL for Access Control and Resource Allocation in Wireless Networked Control Systems" is accepted by *IEEE Trans. Wireless Commun.*.
