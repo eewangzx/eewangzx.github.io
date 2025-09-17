@@ -16,6 +16,7 @@ My research areas include `edge intelligence`, `edge large AI model`, `federated
 
 ## News
 
+- Sept. 2025, it is honor to be the committee of *IEEE Hong Kong 6G Wireless Summit*.
 - May 2025, our work "[Edge Large AI Models: Collaborative Deployment and IoT Applications](https://arxiv.org/abs/2505.03139)" is accepted by IEEE IoT. Mag.! On the same day!
 - May 2025, our work "[Edge Large AI Models: Revolutionizing 6G Networks](https://arxiv.org/abs/2505.00321)" is accepted by IEEE Commun. Mag.!
 - Mar. 2025, our work "Microservice Migration in Hybrid Satellite-Terrestrial Networks for Autonomous Vehicles" is accepted by *J. Commun. Info. Netw.* and selected for the cover article.
