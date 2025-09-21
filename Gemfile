@@ -15,7 +15,7 @@ source "https://rubygems.org"
 # To upgrade, run `bundle update`.
 
 # gem "jekyll"
-gem "jekyll", "~> 4.3"
+gem "jekyll", "~> 4.4.1"
 # gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # If you have any plugins, put them here!
