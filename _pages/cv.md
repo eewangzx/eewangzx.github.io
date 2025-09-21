@@ -15,7 +15,7 @@ redirect_from:
 
 - Ph.D. in Information and Communication (Sept., 2018 -- Jan., 2024)
 
-- Supervisor: Prof. [Yong Zhou](https://faculty.sist.shanghaitech.edu.cn/faculty/zhouyong/index.html) and Prof. [Yuanming Shi](https://shiyuanming.github.io/)
+- Supervisor: Prof. [Yong Zhou](https://faculty.sist.shanghaitech.edu.cn/faculty/zhouyong/index.html)
   
 ### Wuhan University of Technology
 
@@ -39,6 +39,9 @@ redirect_from:
 
 ---
 
+## Teaching
+
+- ELEC5360, Principles of Digital Communications, 2025, Fall.
 <!-- ## Publications
 
   <ul>{% for post in site.publications reversed %}
@@ -55,7 +58,7 @@ redirect_from:
 
 --- 
 
-## Teaching
+
 
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
@@ -65,8 +68,9 @@ redirect_from:
 
 ## Service and leadership
 
-- Reviewer of TWC, TCOM, JSAC, ICC, GLOBECOM, ICCC.
+- TPC of Section Semantic Communication, IEEE CloudCom 2025.
+- Reviewer of ICM, TMC, TWC, TCOM, JSAC, ICC, GLOBECOM, etc.
 - Assisting in hosting regular seminars of SIST, ShanghaiTech University (more than 60 times).
-- TA in Shanghaitech University
+- TA at ShanghaiTech University
   - Signal Detection and Estimation, 2019.
   - Convex Optimization, 2020.
