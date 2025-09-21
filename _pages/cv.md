@@ -25,9 +25,15 @@ redirect_from:
 
 ## Work Experience
 
-### Hong Kong University of Science and Technology, Dept. ECE, Hong Kong
+### The Hong Kong University of Science and Technology, Dept. ECE, Hong Kong
 
-- Post-doctoral Fellow (Mar., 2024 -- Present)
+- Research Assistant Professor (Aug., 2025 -- Present)
+
+- Supervisor: Prof. [Khaled B. Letaief](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=khaled-ben-letaief-eekhaled)
+
+### The Hong Kong University of Science and Technology, Dept. ECE, Hong Kong
+
+- Post-doctoral Fellow (Mar., 2024 -- Aug., 2025)
 
 - Supervisor: Prof. [Khaled B. Letaief](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=khaled-ben-letaief-eekhaled)
 
@@ -41,14 +47,15 @@ redirect_from:
 
 ## Teaching
 
-- ELEC5360, Principles of Digital Communications, 2025, Fall.
+- ELEC 5360, Principles of Digital Communications, 2025, Fall.
+
 <!-- ## Publications
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
----;
+---; -->
 
 ## Talks
 
@@ -68,6 +75,7 @@ redirect_from:
 
 ## Service and leadership
 
+- Committee Member of IEEE Hong Kong 6G Wireless Summit, 2025.
 - TPC of Section Semantic Communication, IEEE CloudCom 2025.
 - Reviewer of ICM, TMC, TWC, TCOM, JSAC, ICC, GLOBECOM, etc.
 - Assisting in hosting regular seminars of SIST, ShanghaiTech University (more than 60 times).
