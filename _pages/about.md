@@ -34,6 +34,7 @@ My research areas include `edge intelligence`, `edge large AI model`, `federated
 ## Highlighted Ongoing Work
 
 - **Edge LAM**
+  - Our work **Joint Rank Optimization and Bandwidth Allocation for Heterogeneous Federated LoRA Fine-Tuning** is accepted for publication in *IEEE trans. Veh. Technol.*. 
   - Our extended research on Edge LAM within the framework of IoT systems, titled ["**Edge Large AI Models: Collaborative Deployment and IoT Applications**](https://arxiv.org/abs/2505.03139)," accepted for publication in *IEEE IoT. Mag.*..
   - Our blue picture in Edge LAM, ["**Edge Large AI Models: Revolutionizing 6G Networks**,"](https://arxiv.org/abs/2505.00321) accepted for publication in *IEEE Commun. Mag.*.
   - Our first work in edge LAM, ["**Federated Fine-Tuning for Pre-Trained Foundation Models Over Wireless Networks**"](https://ieeexplore.ieee.org/abstract/document/10855336), accepted for publication in *IEEE Trans. Wireless Commun.*.
