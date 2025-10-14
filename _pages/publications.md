@@ -16,7 +16,7 @@ body {
 
 1. **Z. Wang**, Y. Shi, and K. B. Letaief, "Edge Large AI Models: Collaborative Deployment and IoT Applications," *IEEE IoT Mag.*, 2025, to appear.
 2. H. Li, S. Xie, J. Shao, **Z. Wang**, H. He, S. Song, J. Zhang and K. B. Letaief, "Mutual Information-Empowered Task-Oriented Communication: Principles, Applications and Challenges," submitted to *IEEE Commun. Mag.*, 2025. 
-3.  Y. Zou, **Z. Wang**, Y. Zhou, Y. Shi, "Joint Rank Optimization and Bandwidth Allocation for Heterogeneous Federated LoRA Fine-Tuning," submitted to *IEEE Trans. Veh. Technol.*, 2025. 
+3.  Y. Zou, **Z. Wang**, Y. Zhou, Y. Shi, "Joint Rank Optimization and Bandwidth Allocation for Heterogeneous Federated LoRA Fine-Tuning," *IEEE Trans. Veh. Technol.*, 2025, to appear. 
 4.  **Z. Wang**, Y. Zhou, Y. Shi, and K. B. Letaief, "Federated Fine-Tuning for Pre-Trained Foundation Models Over Wireless Networks," *IEEE Trans. Wireless Commun.*, 2025, to appear.  
 5.  Y. Zhao, Y. Zhou, **Z. Wang**, Y. Shi, N. Cheng, and H. Zhou, "Learning to Beamform for Integrated Sensing and Communication: A Graph Neural Network with Implicit Projection Approach,"*IEEE Trans. Wireless Commun.*, 2025, to appear.  
 6.  **Z. Wang**, Y. Zhou, Y. Shi, J. Zhu, and K. B. Letaief, "Edge Large AI Models: Revolutionizing 6G Networks," *IEEE Commun. Mag.*, 2025, to appear.
@@ -34,11 +34,13 @@ body {
 
 ## Conferences
 
-1. H. Yuan, **Z. Wang**, Y. Jiang, X. Liu, Y. Shi, and T. Wang, "SAI: Latency-aware Satellite Edge LAM Inference with Looped Transformer," *IEEE Int.l' Conf. Commun. (ICC)*, Montreal, Canada, Jun. 2025. 
-2. T. Kang, **Z. Wang**, H. He, J. Zhang, S. H. Song, and Khaled B. Letaief, "Federated Low-rank Adaptation with Differential Privacy over Wireless Networks," *IEEE MeditCom*, 2025.
-3. **Z. Wang**, Y. Zhou, Y. Shi, and K. B. Letaief, "Federated Low-Rank Adaptation for Large Language Model Fine-Tuning Over Wireless Networks," *IEEE Global Commun. Conf. (GLOBECOM)*, Cape Town, South Africa, Dec., 2024. 
-4. G. Gao, Q. An, Z. Wang, **Z. Wang**, Y. Shi, and Y. Zhou, "Over-the-Air Computation Assisted Federated Learning With Progressive Training,"  *IEEE Int.l' Conf. Commun. (ICC)*, Denver, CO, USA, Jun., 2024. 
-5. Y. Zhao, **Z. Wang**, Z. Wang, X. Chen and Y. Zhou, "Learning to Beamform for Dual-Functional MIMO Radar-Communication Systems,"  *IEEE Int.l' Conf. Commun. (ICC)*, Roma, Italy, May, 2023. 
-6. Z. Li, Z. Wang, **Z. Wang**, and Y. Zhou, "Energy-Efficient Federated Learning Over Hierarchical Aerial Wireless Networks," *Annu. Int. Symp. PIMRC*, Toronto, Canada, Sept., 2023. 
-7. **Z. Wang**, H. Zhu, Y. Zhou, and X. Luo, "Joint Traffic Signal and Connected Vehicle Control in IoV via Deep Reinforcement Learning,"  *IEEE WCNC*, Nanjing, China, Mar., 2021. 
-8. M. He, X. Luo, **Z. Wang**, F. Yang, H. Qian, and C. Hua, "Global Traffic State Recovery via Local Observations with Generative Adversarial Networks," *IEEE Int. Conf. Acoust. Speech Signal Process. (ICASSP)*, Barcelona, Spain, May, 2020. 
+1. H. Xian, **Z. Wang**, H. Yuan, T. Wang, Y. Shi , “Latency-Minimal Decentralized LAM Training with Looped Transformers in Heterogeneous LEO Satellite Constellations,” IEEE Global Commun. Conf. (GLOBECOM),
+Taipei, Dec., 2025.
+2. T. Kang, **Z. Wang**, H. He, J. Zhang, S. H. Song, and Khaled B. Letaief, “Federated Low-rank Adaptation with Differential Privacy over Wireless Networks,” IEEE MeditCom, Nice, France, Jul., 2025.
+3. H. Yuan, **Z. Wang**, Y. Jiang, X. Liu, Y. Shi, and T. Wang, “SAI: Latency-aware Satellite Edge LAM Inference with Looped Transformer,” IEEE Int.l’ Conf. Commun. (ICC), Montreal, Canada, Jun., 2025.
+4. **Z. Wang**, Y. Zhou, Y. Shi, and K. B. Letaief, “Federated Low-Rank Adaptation for Large Language Model Fine-Tuning Over Wireless Networks,” IEEE Global Commun. Conf. (GLOBECOM), Cape Town, South Africa, Dec., 2024.
+5. G. Gao, Q. An, Z. Wang, **Z. Wang**, Y. Shi, and Y. Zhou, “Over-the-Air Computation Assisted Federated Learning With Progressive Training,” IEEE Int.l’ Conf. Commun. (ICC), Denver, CO, USA, Jun., 2024.
+6. Y. Zhao, **Z. Wang**, Z. Wang, X. Chen and Y. Zhou, “Learning to Beamform for Dual-Functional MIMO Radar-Communication Systems,” IEEE Int.l’ Conf. Commun. (ICC), Roma, Italy, May, 2023.
+7. Z. Li, Z. Wang, **Z. Wang**, and Y. Zhou, “Energy-Efficient Federated Learning Over Hierarchical Aerial Wireless Networks,” Annu. Int. Symp. PIMRC, Toronto, Canada, Sept., 2023.
+8. **Z. Wang**, H. Zhu, Y. Zhou, and X. Luo, “Joint Traffic Signal and Connected Vehicle Control in IoV via Deep Reinforcement Learning,” IEEE WCNC, Nanjing, China, Mar., 2021.
+9. M. He, X. Luo, **Z. Wang**, F. Yang, H. Qian, and C. Hua, “Global Traffic State Recovery via Local Observations with Generative Adversarial Networks,” IEEE Int. Conf. Acoust. Speech Signal Process. (ICASSP), Barcelona, Spain, May, 2020.
