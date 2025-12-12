@@ -21,7 +21,7 @@ repository               : "eewangzx/eewangzx.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.jpg"
+  avatar           : "protrait.png"
   name             : "Zixin Wang"
   pronouns         : # example: "she/her"  
   bio              : "Research Assistant Professor<br>Dept. ECE"
