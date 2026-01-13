@@ -47,7 +47,7 @@ redirect_from:
 
 ## Teaching
 
-- ELEC 5360, Principles of Digital Communications, 2025, Fall.
+- ELEC 5360, Principles of Digital Communications, 2025, Fall, HKUST.
 
 <!-- ## Publications
 
